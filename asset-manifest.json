@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PMv2/static/css/main.8b27a43c.css",
+    "main.js": "/PMv2/static/js/main.6669c951.js",
+    "static/media/map.png": "/PMv2/static/media/map.f71fc5975d746d1dde92.png",
+    "static/media/sky4.jpg": "/PMv2/static/media/sky4.68fbcd84e7af3ee22ec7.jpg",
+    "static/media/sky1.jpg": "/PMv2/static/media/sky1.0d0756e2a5e1a577ee3a.jpg",
+    "static/media/sky2.jpg": "/PMv2/static/media/sky2.bf6e7cb02ae7d63ee45e.jpg",
+    "static/media/sky3.jpg": "/PMv2/static/media/sky3.442625ca759566643155.jpg",
+    "static/media/mask.svg": "/PMv2/static/media/mask.35aef06aec67e73a61e0baa1ec3f9692.svg",
+    "static/media/pmLevel.svg": "/PMv2/static/media/pmLevel.d08e3f24b9b8e0ba73963877a2b088e9.svg",
+    "static/media/geo.svg": "/PMv2/static/media/geo.2697cb265cd3d75e8c22b19573b6502f.svg",
+    "static/media/earth.svg": "/PMv2/static/media/earth.6afedfeb52d7c47146111e1d2cdd748c.svg",
+    "static/media/plant.svg": "/PMv2/static/media/plant.bbe149e83f4a61edd929280390e4395e.svg",
+    "index.html": "/PMv2/index.html",
+    "static/media/close.svg": "/PMv2/static/media/close.1c08c084a23b6230380ea5cd28eaaaf8.svg",
+    "main.8b27a43c.css.map": "/PMv2/static/css/main.8b27a43c.css.map",
+    "main.6669c951.js.map": "/PMv2/static/js/main.6669c951.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b27a43c.css",
+    "static/js/main.6669c951.js"
+  ]
+}
