@@ -20,27 +20,31 @@ const HeaderBlock = styled.div`
   }
 
   .header-logo {
+    position: relative;
     font-size: 32px;
     font-weight: 400;
     letter-spacing: 0.07em;
     line-height: 40px;
     color: #fff;
+    transition: all .5s;
 
-    &:hover {
-      /* color: ${colors.trans[1]};
-      .header-point {
-        color: #fff;
-      } */
-      visibility: hidden;
-      &::after {
-        visibility: visible;
-        content: 'PM';
+    &::after {
+        opacity: 0;
+        content: 'P M';
         font-size: 48px;
         font-weight: 700;
         letter-spacing: 0.15em;
         color: #fff;
-        position: relative;
-        left: -130px;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        transition: .5s;
+      }
+
+    &:hover {
+      color: transparent;
+      &::after {
+        opacity: 1;
       }
     }
 
