@@ -47,3 +47,11 @@
 
 
   ![exm](https://user-images.githubusercontent.com/89119982/170923252-b21587da-e45e-4845-976e-784f1eb3e288.gif)
+  
+  ---
+  
+  ### ver 1.5
+  
+  - Header 변경
+  - 더 자연스러운 hover 이벤트 
+  
